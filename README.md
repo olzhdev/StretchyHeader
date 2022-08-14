@@ -10,6 +10,8 @@ ViewController with ScrollView and stretchy header.
 ## How to use
 
 All required configurations are setted. All you need to do is layout your elements in setContentViewConstraints() function.
+And don't forget change imageView.image = UIImage(named: "cat") to your image.
+
 
 ```swift
 private func setContentViewConstraints() {
